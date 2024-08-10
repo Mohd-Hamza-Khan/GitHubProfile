@@ -7,3 +7,6 @@
 6. just copy all text and paste it in your readme.md file
 7. just press ctrl+F write paste then enter, paste your relevant information like your linkedin, youtube, instagram id, etc.,  
 8. commit changes then you will see your attractive github profile
+
+
+if you've face any issue regarding this feel free to ask me on whatsapp : 8445569020
